@@ -1,0 +1,26 @@
+_repo: Determining-the-Age-of-Cattle-by-the-Teeth_26903
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pope, George W. (George Whitfield)
+    birthdate: 1867
+    gutenberg_agent_id: '32316'
+    url: http://www.gutenberg.org/2009/agents/32316
+description: ''
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Dept. of Agriculture. Farmers' bulletin no. 1066
+subjects:
+- !lcsh 'Cattle -- Age determination'
+- !lcc 'SF'
+title: Determining the Age of Cattle by the Teeth
+url: http://www.gutenberg.org/ebooks/26903
